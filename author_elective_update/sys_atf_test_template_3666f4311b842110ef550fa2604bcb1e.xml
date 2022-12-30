@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template">
+    <sys_atf_test_template action="DELETE">
+        <description>Create a user, insert a record, verify all mandatory fields have values, log result.</description>
+        <name>Business Rule Test - NeedIt</name>
+        <sys_class_name>sys_atf_test_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 02:33:22</sys_created_on>
+        <sys_id>3666f4311b842110ef550fa2604bcb1e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Business Rule Test - NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_atf_test_template_3666f4311b842110ef550fa2604bcb1e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 02:34:21</sys_updated_on>
+        <template>d9bc5f21ff6033008d3f5d9ad53bf12d,14872288df60220062fe6c7a4df26319,1f39a288df60220062fe6c7a4df2639d,58ab71985f30220012b44adb7f46661e</template>
+    </sys_atf_test_template>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>2cc9abe4dbaa159c9df22f17d49619ed</instance_id>
+        <instance_name>dev140348</instance_name>
+        <name>sys_atf_test_template_3666f4311b842110ef550fa2604bcb1e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_atf_test_template"><sys_atf_test_template action="INSERT_OR_UPDATE"><description>Create a user, insert a record, verify all mandatory fields have values, log result.</description><name>Business Rule Test - NeedIt</name><sys_class_name>sys_atf_test_template</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-29 02:33:22</sys_created_on><sys_id>3666f4311b842110ef550fa2604bcb1e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Business Rule Test - NeedIt</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_atf_test_template_3666f4311b842110ef550fa2604bcb1e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-29 02:34:21</sys_updated_on><template>d9bc5f21ff6033008d3f5d9ad53bf12d,14872288df60220062fe6c7a4df26319,1f39a288df60220062fe6c7a4df2639d,58ab71985f30220012b44adb7f46661e</template></sys_atf_test_template></record_update>]]></payload>
+        <payload_hash>1089531438</payload_hash>
+        <record_name>Business Rule Test - NeedIt</record_name>
+        <reverted_from/>
+        <source>5b593f071b675110ef550fa2604bcbdf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 02:34:21</sys_created_on>
+        <sys_id>bdd6f4311b842110ef550fa2604bcb3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1855bbb05220000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-29 02:34:21</sys_updated_on>
+        <type>Test Template</type>
+        <update_guid>75d6f431c68421100c520b3dd0c2813e</update_guid>
+        <update_guid_history>75d6f431c68421100c520b3dd0c2813e:1089531438,1f96fcfdab44211027949e0541187fab:-1810372422</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-29 04:19:52</sys_created_on>
+        <sys_db_object display_value="" name="sys_atf_test_template">sys_atf_test_template</sys_db_object>
+        <sys_id>228985a07f294cb085b73766e8e8d5a4</sys_id>
+        <sys_metadata>3666f4311b842110ef550fa2604bcb1e</sys_metadata>
+        <sys_name>Business Rule Test - NeedIt</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_atf_test_template_3666f4311b842110ef550fa2604bcb1e</sys_update_name>
+        <sys_update_version display_value="sys_atf_test_template_3666f4311b842110ef550fa2604bcb1e">bdd6f4311b842110ef550fa2604bcb3e</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
